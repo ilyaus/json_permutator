@@ -1,0 +1,19 @@
+{
+    "list-1": [
+        "red",
+        "blue",
+        "orange"
+    ],
+    "list-2": [
+        "tomato",
+        "potato",
+        "carrots",
+        "apples"
+    ],
+    "list-3": [
+        "left",
+        "right",
+        "down",
+        "up"
+    ]
+}
